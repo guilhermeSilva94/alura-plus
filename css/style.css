@@ -1,28 +1,57 @@
 /* Soft reset */
 * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-/* Variaveis das cores principais */
+
+/* Variaveis de elementos principais */
 :root {
     --branco-principal: #fff;
     --cinza-secundario: #c0c0c0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
+    --fonte-principal: 'Inter';
 }
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .principal {
-    background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .container {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.container__botao {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+    text-decoration: none;
+}
+
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+}
+
+.container__aviso {
+    font-size: 12px;
+    color: var(--cinza-secundario);
 }
