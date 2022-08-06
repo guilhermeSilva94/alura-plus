@@ -116,4 +116,30 @@ body {
     color: var(--branco-principal);
 }
 
+.rodape {
+    text-align: center;
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.lista__link {
+    margin: 2em 2em 3em 0;
+}
+
+.lista__link a {
+    color: var(--branco-principal);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.rodape__texto {
+    margin-bottom: 2em;
+    color: var(--cinza-secundario);
+    font-size: 14px;
+}
+
 
