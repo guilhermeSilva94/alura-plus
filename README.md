@@ -10,7 +10,7 @@ Terceiro projeto da formação HTML e CSS
 | :fire: Desafio     | -
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/hzc-alura/master/img/logoSite.png#vitrinedev)
+![](https://raw.githubusercontent.com/guilhermeSilva94/alura-plus/master/img/logoSite.png#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -23,4 +23,4 @@ Seu objetivo era colocar em prática os conhecimentos já adquiridos de HTML e C
 
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/hzc-alura/master/img/PaginaDesktop.png)
+![](https://raw.githubusercontent.com/guilhermeSilva94/alura-plus/master/img/Pagina.png)
