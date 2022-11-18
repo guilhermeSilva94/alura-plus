@@ -10,8 +10,6 @@ Terceiro projeto da formação HTML e CSS
 | :fire: Desafio     | -
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/alura-plus/master/img/logoSite.png#vitrinedev)
-
 ## Detalhes do projeto
 
 Projeto de uma landing page feito a partir de um templete publicado no Figma usando HTML e CSS. 
